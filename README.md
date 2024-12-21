@@ -4,6 +4,8 @@ Submitted by: **Edgar Ulloa**
 
 **Background Toggling App** is an app that displays information about the creator and includes a button that toggles the background color (randomized).
 
+![](https://imgur.com/a/vCAmK7b.gif)
+
 Time spent: **2** hours spent in total (including development time and time spent putting together this README)
 
 ## Required Features
